@@ -1,4 +1,5 @@
 # Bem Vindo ao projeto Brasil Com Ciência
+[Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 You can use the [editor on GitHub](https://github.com/prototipando/site1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
